@@ -3,6 +3,32 @@
 # 💫 About Me:
 😄 Pronouns: He/His<br>🔭 I’m currently working as a Top Rated Freelancer @ Upwork.<br>🌱 I’m currently learning more about Back End Technologies.<br>👯 I’m looking to collaborate on Upwork.<br>🤔 I’m looking for help with React-Redux and Typescript.<br>💬 Ask me about Front End, Upwork, or anything related.<br>📫 How to reach me: check below...
 
+I'm Azaz Muzaffar and I am a Senior Front End Developer,
+🏆 Top-Rated Seller having completed more than 100+ websites.
+I can help you with several services and experties.
+
+✅ HTML • CSS
+✅ SASS • SCSS • LESS
+✅ SVG • Animations
+✅ JavaScript • jQuery
+✅ Bootstrap 3/4/5
+✅ VueJS • Vuex
+✅ PSD / XD / AI / Sketch / Figma to HTML
+✅ PSD / XD / AI / Sketch / Figma to HTML5
+✅ Website Redesign
+✅ Website Custumization
+✅ Responsive Design
+✅ Pixel Perfect Design
+✅ Web design
+✅ Adobe XD
+✅ Figma
+✅ Git (Github)
+✅ Website speed optimization
+✅ Domain and Hosting Transfer
+✅ Website Hosting
+
+I have over 4+ years of experience doing conversions from a Design (Figma, XD, PSD, etc...) to HTML, and can help with any design convertions no matter how complex the design is. Contact me today to discuss your website, and how I can help!
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Azaz#3521) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azazmuzaffar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/azazmuzaffar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/azazmuzaffar) 
