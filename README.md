@@ -1,4 +1,4 @@
-# Hi, I'm Azaz Muzaffar. 
+# Hi, I'm Azaz Muzaffar.  [![](https://visitcount.itsvg.in/api?id=azazmuzaffar&icon=0&color=3)](https://visitcount.itsvg.in)
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Azaz#3521) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azazmuzaffar) 
@@ -43,4 +43,4 @@ I have over 4+ years of experience doing conversions from a Design (Figma, XD, P
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azazmuzaffar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=azazmuzaffar&icon=0&color=3)](https://visitcount.itsvg.in)
+
