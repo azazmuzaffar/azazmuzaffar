@@ -7,23 +7,23 @@ I can help you with several services and experties.<br>
 
 ☑ HTML • CSS<br>
 ☑ SASS • SCSS • LESS<br>
-✔ SVG • Animations<br>
-✔ JavaScript • jQuery<br>
-✔ Bootstrap 3/4/5<br>
-✔ VueJS • Vuex<br>
-✔ PSD / XD / AI / Sketch / Figma to HTML<br>
-✔ PSD / XD / AI / Sketch / Figma to HTML5<br>
-✔ Website Redesign<br>
-✔ Website Custumization<br>
-✔ Responsive Design<br>
-✔ Pixel Perfect Design<br>
-✔ Web design<br>
-✔ Adobe XD<br>
-✔ Figma<br>
-✔ Git (Github)<br>
-✔ Website speed optimization<br>
-✔ Domain and Hosting Transfer<br>
-✔ Website Hosting<br>
+☑ SVG • Animations<br>
+☑ JavaScript • jQuery<br>
+☑ Bootstrap 3/4/5<br>
+☑ VueJS • Vuex<br>
+☑ PSD / XD / AI / Sketch / Figma to HTML<br>
+☑ PSD / XD / AI / Sketch / Figma to HTML5<br>
+☑ Website Redesign<br>
+☑ Website Custumization<br>
+☑ Responsive Design<br>
+☑ Pixel Perfect Design<br>
+☑ Web design<br>
+☑ Adobe XD<br>
+☑ Figma<br>
+☑ Git (Github)<br>
+☑ Website speed optimization<br>
+☑ Domain and Hosting Transfer<br>
+☑ Website Hosting<br>
 
 I have over 4+ years of experience doing conversions from a Design (Figma, XD, PSD, etc...) to HTML, and can help with any design convertions no matter how complex the design is. Contact me today to discuss your website, and how I can help!
 
