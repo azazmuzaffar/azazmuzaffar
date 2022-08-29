@@ -1,10 +1,5 @@
-# Hi, I am Azaz Muzaffar.
-
-# 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently working as a Top Rated Freelancer @ Upwork.<br>🌱 I’m currently learning more about Back End Technologies.<br>👯 I’m looking to collaborate on Upwork.<br>🤔 I’m looking for help with React-Redux and Typescript.<br>💬 Ask me about Front End, Upwork, or anything related.<br>📫 How to reach me: check below...
-
-I'm Azaz Muzaffar and I am a Senior Front End Developer,
-🏆 Top-Rated Seller having completed more than 100+ websites.
+I'm Azaz Muzaffar and I am a Senior Front End Developer, <br>
+🏆 Top-Rated Seller having completed more than 100+ websites. <br>
 I can help you with several services and experties.
 
 ✅ HTML • CSS<br>
