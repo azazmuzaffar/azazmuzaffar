@@ -7,25 +7,25 @@ I'm Azaz Muzaffar and I am a Senior Front End Developer,
 🏆 Top-Rated Seller having completed more than 100+ websites.
 I can help you with several services and experties.
 
-✅ HTML • CSS
-✅ SASS • SCSS • LESS
-✅ SVG • Animations
-✅ JavaScript • jQuery
-✅ Bootstrap 3/4/5
-✅ VueJS • Vuex
-✅ PSD / XD / AI / Sketch / Figma to HTML
-✅ PSD / XD / AI / Sketch / Figma to HTML5
-✅ Website Redesign
-✅ Website Custumization
-✅ Responsive Design
-✅ Pixel Perfect Design
-✅ Web design
-✅ Adobe XD
-✅ Figma
-✅ Git (Github)
-✅ Website speed optimization
-✅ Domain and Hosting Transfer
-✅ Website Hosting
+✅ HTML • CSS<br>
+✅ SASS • SCSS • LESS<br>
+✅ SVG • Animations<br>
+✅ JavaScript • jQuery<br>
+✅ Bootstrap 3/4/5<br>
+✅ VueJS • Vuex<br>
+✅ PSD / XD / AI / Sketch / Figma to HTML<br>
+✅ PSD / XD / AI / Sketch / Figma to HTML5<br>
+✅ Website Redesign<br>
+✅ Website Custumization<br>
+✅ Responsive Design<br>
+✅ Pixel Perfect Design<br>
+✅ Web design<br>
+✅ Adobe XD<br>
+✅ Figma<br>
+✅ Git (Github)<br>
+✅ Website speed optimization<br>
+✅ Domain and Hosting Transfer<br>
+✅ Website Hosting<br>
 
 I have over 4+ years of experience doing conversions from a Design (Figma, XD, PSD, etc...) to HTML, and can help with any design convertions no matter how complex the design is. Contact me today to discuss your website, and how I can help!
 
