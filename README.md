@@ -8,7 +8,7 @@
 I am a Senior Front End Developer, working as a <b>Top Rated Freelancer @ Upwork</b><br><br>
 🏆 <b>Top-Rated Seller</b> having completed more than 100+ websites. <br>
 🥇 Completed more then <b>35 jobs</b>, with the <b>JSS of 97%</b> <br><br>
-I can help you with several services and experties.<br><br>
+I can help you with several services and experties.<br>
 
 ☑ HTML • CSS<br>
 ☑ SASS • SCSS • LESS<br>
@@ -28,7 +28,7 @@ I can help you with several services and experties.<br><br>
 ☑ Git (Github)<br>
 ☑ Website speed optimization<br>
 ☑ Domain and Hosting Transfer<br>
-☑ Website Hosting<br><br>
+☑ Website Hosting<br>
 
 I have over 4+ years of experience doing conversions from a Design (Figma, XD, PSD, etc...) to HTML, and can help with any design convertions no matter how complex the design is. Contact me today to discuss your website, and how I can help!
 
