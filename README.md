@@ -1,8 +1,8 @@
 # Hi, I'm Azaz Muzaffar. 
 
-I am a Senior Front End Developer, working as a <b>Top Rated Freelancer @ Upwork</b><br>
+I am a Senior Front End Developer, working as a <b>Top Rated Freelancer @ Upwork</b><br><br>
 🏆 <b>Top-Rated Seller</b> having completed more than 100+ websites. <br>
-🥇 Completed more then <b>35 jobs</b>, with the <b>JSS (Job Success Score) of 97%</b> <br>
+🥇 Completed more then <b>35 jobs</b>, with the <b>JSS of 97%</b> <br><br>
 I can help you with several services and experties.
 
 ✅ HTML • CSS<br>
