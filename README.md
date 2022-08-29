@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently working as a Top Rated Freelancer @ Upwork.<br>🌱 I’m currently learning more about Back End Technologies.<br>👯 I’m looking to collaborate on Upwork.<br>🤔 I’m looking for help with React-Redux and Typescript.<br>💬 Ask me about Front End, Upwork, or anything related.<br>📫 How to reach me: Linkedin - @azazmuzaffar, Upwork - azazmuzaffar<br>⚡ Fun fact: I am always open to work.
+😄 Pronouns: He/His<br>🔭 I’m currently working as a Top Rated Freelancer @ Upwork.<br>🌱 I’m currently learning more about Back End Technologies.<br>👯 I’m looking to collaborate on Upwork.<br>🤔 I’m looking for help with React-Redux and Typescript.<br>💬 Ask me about Front End, Upwork, or anything related.<br>📫 How to reach me: check below...
 
 
 ## 🌐 Socials:
