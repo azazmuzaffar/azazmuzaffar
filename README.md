@@ -5,8 +5,8 @@ I am a Senior Front End Developer, working as a <b>Top Rated Freelancer @ Upwork
 🥇 Completed more then <b>35 jobs</b>, with the <b>JSS of 97%</b> <br><br>
 I can help you with several services and experties.<br>
 
-✔ HTML • CSS<br>
-✔ SASS • SCSS • LESS<br>
+☑ HTML • CSS<br>
+☑ SASS • SCSS • LESS<br>
 ✔ SVG • Animations<br>
 ✔ JavaScript • jQuery<br>
 ✔ Bootstrap 3/4/5<br>
