@@ -2,7 +2,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Azaz#3521) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azazmuzaffar) 
-![img_4286a-350x233](https://iconape.com/wp-content/files/pj/112108/png/upwork-1.png)](https://linkedin.com/in/azazmuzaffar) 
+![img_4286a-350x233][(https://iconape.com/wp-content/files/pj/112108/png/upwork-1.png)](https://linkedin.com/in/azazmuzaffar) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/azazmuzaffar) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/azazmuzaffar) 
 
