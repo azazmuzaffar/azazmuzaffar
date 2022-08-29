@@ -1,6 +1,6 @@
 # Hi, I'm Azaz Muzaffar. 
 
-I am a Senior Front End Developer, working as a Top Rated Freelancer @ Upwork</b><br>
+I am a Senior Front End Developer, working as a <b>Top Rated Freelancer @ Upwork</b><br>
 🏆 <b>Top-Rated Seller</b> having completed more than 100+ websites. <br>
 I can help you with several services and experties.
 
