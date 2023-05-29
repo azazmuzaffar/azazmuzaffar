@@ -7,7 +7,7 @@
 
 I am a Senior Front End Developer, working as a <b>Top Rated Freelancer @ Upwork</b><br>
 🏆 <b>Top-Rated Seller</b> having completed more than 100+ websites. <br>
-🥇 Completed more then <b>35 jobs</b>, with the <b>JSS of 97%</b> <br>
+🥇 Completed more then <b>45 jobs</b>, with the <b>JSS of 100%</b> <br>
 I can help you with several services and experties.<br>
 
 ☑ HTML • CSS<br>
